@@ -1,0 +1,8 @@
+class c1 {
+  public static void main(String[] args){
+    C1 obj = new C1();
+    Object obj2 = ob1;
+    System.out.println(ob2 instanceof Object);
+    System.out.println(ob2 instanceof C1);
+  }
+}
